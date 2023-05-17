@@ -1,6 +1,6 @@
 ## Install requirements
 
-+ Pythno 3 and above
++ Python3 and above
 
 ```
 pip install datasets
